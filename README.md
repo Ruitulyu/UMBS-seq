@@ -3,8 +3,6 @@ This Python script filters out non-bisulfite converted reads
 =======
 # Paired-End FASTQ Filter Script
 
-This Python script filters **paired-end FASTQ files** by removing read pairs that exceed user-defined thresholds for nucleotide content:
-
 - Removes **read pairs** where **Read 1 contains more than N 'C' bases**.
 - And **Read 2 contains more than M 'G' bases**.
 
