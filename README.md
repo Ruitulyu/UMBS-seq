@@ -29,11 +29,6 @@ git clone https://github.com/Ruitulyu/UMBS-seq.git
 cd UMBS-seq
 ```
 
-## 🔧 Requirements
-
-- Python 3.x  
-- No external dependencies (uses only the Python standard library)
-
 ---
 
 ## 🚀 Usage
