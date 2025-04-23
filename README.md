@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # UMBS-seq
 This Python script filters **paired-end FASTQ files** by filtering out non-bisulfite converted reads
 =======
@@ -64,4 +63,3 @@ Only read pairs passing both filters will be retained in the output files.
 ## 🙌 Acknowledgments
 Developed by Ruitu Lyu to support custom quality control of bisulfite and high-throughput sequencing data.
 Feel free to submit issues or pull requests for feature requests or improvements.
->>>>>>> Initial commit: added filter script and README
